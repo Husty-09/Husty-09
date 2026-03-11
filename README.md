@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👨🏻‍💻 Matheus Calonico
 
-<!--
-**Husty-09/Husty-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```` Cursando Engenharia de Software ````
 
-Here are some ideas to get you started:
+Atualmente cursando Bacharelado em Engenharia de Software no Centro Universitário de Brasília (CEUB). Sou desenvolvedor focado em Backend com Java e entusiasta de sistemas Linux, com interesse especial em personalização e na distribuição Arch. Busco constantemente transformar ideias em código através de soluções eficientes e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre em contato comigo: <a href="mailto:matheusscalonico@gmail.com" target="__blank">matheusscalonico@gmail.com</a> 
+
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,nextjs,linux,arch,postgres,mysql,docker,nestjs,git)](https://skillicons.dev)
+
+### Languages 
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês intermediário
