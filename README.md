@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Matheus Calonico
+## Matheus Calonico
 
 ```` Cursando Engenharia de Software ````
 
