@@ -1,14 +1,59 @@
-## Matheus Calonico
+<h1 align="center">Matheus Calonico</h1>
 
-```` Cursando Engenharia de Software ````
+<p align="center">
+  <em>Cursando Engenharia de Software · Brasília, Brazil</em>
+</p>
 
-Atualmente cursando Bacharelado em Engenharia de Software no Centro Universitário de Brasília (CEUB). Sou desenvolvedor focado em Backend com Java e entusiasta de sistemas Linux, com interesse especial em personalização e na distribuição Arch. Busco constantemente transformar ideias em código através de soluções eficientes e escaláveis.
+---
 
-Entre em contato comigo: <a href="mailto:matheusscalonico@gmail.com" target="__blank">matheusscalonico@gmail.com</a> 
+### About
 
-### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,nextjs,linux,arch,postgres,mysql,docker,nestjs,git)](https://skillicons.dev)
+Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distribuição **Arch**. Transformo ideias em código através de soluções eficientes e escaláveis.
 
-### Languages 
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo</br>
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês intermediário
+- `HustyCore` — biblioteca UI open-source
+- `ZenSpot` — saúde digital acadêmica
+- `SREIDI` — Ministério de Minas e Energia
+
+---
+
+### Stack
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+**Data**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Environment**  
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### Languages
+
+![BR](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) Português — Nativo  
+![US](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) Inglês — Intermediário
+
+---
+
+### Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Husty-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husty-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:matheusscalonico@gmail.com"><img src="https://img.shields.io/badge/Email-2B2B2B?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/matheuscalonico/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
