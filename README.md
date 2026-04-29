@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Calonico</h1>
 
 <p align="center">
-  <em>Cursando Engenharia de Software · Brasília, Brazil</em>
+  <em>Cursando Engenharia de Software · Brasília, Brasil</em>
 </p>
 
 ---
