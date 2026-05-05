@@ -47,7 +47,6 @@ Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distri
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Husty-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husty-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 </p>
 
