@@ -10,8 +10,8 @@
 
 Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distribuição **Arch**. Transformo ideias em código através de soluções eficientes e escaláveis.
 
-- `HustyCore` — biblioteca UI open-source
-- `ZenSpot` — saúde digital acadêmica
+- `HustyCore` — Biblioteca UI open-source
+- `Sudoku` — Jogo de Sudoku mobile PWA
 - `SREIDI` — Ministério de Minas e Energia
 
 ---
