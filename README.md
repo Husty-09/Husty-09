@@ -44,14 +44,6 @@ Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distri
 
 ---
 
-### Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husty-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-</p>
-
----
-
 <p align="center">
   <a href="mailto:matheusscalonico@gmail.com"><img src="https://img.shields.io/badge/Email-2B2B2B?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/matheuscalonico/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
