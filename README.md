@@ -13,6 +13,7 @@ Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distri
 - `HustyCore` — Biblioteca UI open-source
 - `Sudoku` — Jogo de Sudoku mobile PWA
 - `SREIDI` — Ministério de Minas e Energia
+- `GovData` — Dashboard interativo de dados ecônomicos brasileiros
 
 ---
 
