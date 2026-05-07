@@ -6,7 +6,7 @@
 
 ---
 
-### About
+### Sobre
 
 Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distribuição **Arch**. Transformo ideias em código através de soluções eficientes e escaláveis.
 
@@ -17,7 +17,7 @@ Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distri
 
 ---
 
-### Stack
+### Habilidades
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -32,13 +32,13 @@ Cursando Engenharia de Software no **CEUB**. Entusiasta de **Linux** e da distri
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Environment**  
+**Ambientes**  
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### Languages
+### Linguagens
 
 ![BR](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) Português — Nativo  
 ![US](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) Inglês — Intermediário
