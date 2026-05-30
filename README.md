@@ -1,6 +1,6 @@
 <h1 align="center">Matheus Calonico</h1>
 <p align="center">
-  <em>Desenvolvedor Front-End · Engenharia de Software @ CEUB · Brasília, Brasil</em>
+  <em>Desenvolvedor Front-End · Engenharia de Software UniCEUB · Brasília, Brasil</em>
 </p>
 
 ---
